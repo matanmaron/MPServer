@@ -1,0 +1,18 @@
+  body {
+    background-color: lightblue;
+  }
+  
+  h1 {
+    color: red;
+    text-align: center;
+  }
+  
+  p {
+    color: seagreen;
+    font-family: verdana;
+    font-size: 20px;
+  }
+
+  .button {
+      background-color: aquamarine;
+  }
